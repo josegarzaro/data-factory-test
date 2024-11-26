@@ -1,0 +1,9 @@
+{
+	"name": "working-factory",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
+	"location": "westeurope"
+}
